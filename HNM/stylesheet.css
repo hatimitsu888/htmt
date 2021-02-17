@@ -1,6 +1,6 @@
-/* «ƒXƒ^ƒCƒ‹‚Ìİ’è« */
+/* â†“ã‚¹ã‚¿ã‚¤ãƒ«ã®è¨­å®šâ†“ */
 body {
-   font-family:"‚l‚r ƒSƒVƒbƒN";
+   font-family:"ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯";
    color:#fff;
    background-color:#011;
    font-size:20px;
@@ -34,10 +34,10 @@ body {
    width:300px;
    background-color:#577;
 }
-/* ªƒXƒ^ƒCƒ‹‚Ìİ’èª */
+/* â†‘ã‚¹ã‚¿ã‚¤ãƒ«ã®è¨­å®šâ†‘ */
 
 
-/* «•¶Í‚Ìİ’è« */
+/* â†“æ–‡ç« ã®è¨­å®šâ†“ */
 .title {
    font-size:40px;
    border-top:double 10px #fff;
@@ -58,10 +58,10 @@ body {
    background-color:#466;
    border-left:solid 5px #fff;
 }
-/* ª•¶Í‚Ìİ’èª */
+/* â†‘æ–‡ç« ã®è¨­å®šâ†‘ */
 
 
-/* «“®‰æ•\¦‚Ìİ’è« */
+/* â†“å‹•ç”»è¡¨ç¤ºã®è¨­å®šâ†“ */
 .youtube{
    font-size:30px;
    font-weight:600;
@@ -89,20 +89,20 @@ body {
    height:365px;
    margin-left:60px;
 }
-/* ª“®‰æ•\¦‚Ìİ’èª */
+/* â†‘å‹•ç”»è¡¨ç¤ºã®è¨­å®šâ†‘ */
 
 
-/* «Ú×•\¦(‰E‘¤)‚Ìİ’è« */
+/* â†“è©³ç´°è¡¨ç¤º(å³å´)ã®è¨­å®šâ†“ */
 .blog{
    margin-top:20px;
    display:block;
    background-color:#799;
    border-left:solid 5px #fff;
 }
-/* ªÚ×•\¦(‰E‘¤)‚Ìİ’èª */
+/* â†‘è©³ç´°è¡¨ç¤º(å³å´)ã®è¨­å®šâ†‘ */
 
 
-/* «ˆê”Ô‰º(‚Ù‚Ú–³‘Ê)« */
+/* â†“ä¸€ç•ªä¸‹(ã»ã¼ç„¡é§„)â†“ */
 .foot{
    width:1050px;
    height:150px;
@@ -116,4 +116,11 @@ body {
 .URL{
    margin:0px 50px;
 }
-/* ªˆê”Ô‰º(‚Ù‚Ú–³‘Ê)ª */
+/* â†‘ä¸€ç•ªä¸‹(ã»ã¼ç„¡é§„)â†‘ */
+
+
+/* â†“HoneyNestMakingâ†“ */
+.creation{
+
+}
+/* â†‘HoneyNestMakingâ†‘ */
