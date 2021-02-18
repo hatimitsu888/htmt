@@ -121,6 +121,13 @@ body {
 
 /* ↓HoneyNestMaking↓ */
 .creation{
-
+   display:block;
+   text-align:center;
+}
+.des{
+   border-bottom:dashed 3px #022;
+}
+.download img{
+   
 }
 /* ↑HoneyNestMaking↑ */
