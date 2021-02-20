@@ -62,7 +62,8 @@ body {
 .copyright{
    display:block;
    text-align:center;
-   font-size:10px;
+   font-size:15px;
+   font-weight:500;
 }
 /* ↑文章の設定↑ */
 
