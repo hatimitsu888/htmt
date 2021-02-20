@@ -60,6 +60,7 @@ body {
    border-left:solid 5px #fff;
 }
 .copyright{
+   display:block;
    text-align:center;
    font-size:10px;
 }
