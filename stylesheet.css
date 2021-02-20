@@ -136,8 +136,7 @@ body {
 
 /* ↓ブログ↓ */
 .blog_content{
-   width:560px;
-   height:240px;
+   margin:50px;
    border:solid 3px #022;
 }
 /* ↑ブログ↑ */
