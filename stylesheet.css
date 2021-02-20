@@ -1,6 +1,6 @@
 /* ↓スタイルの設定↓ */
 body {
-   font-family:"ＭＳ ゴシック";
+   font-family:"ＭＳ ゴシック",sans-serif;
    color:#fff;
    background-color:#011;
    font-size:20px;
