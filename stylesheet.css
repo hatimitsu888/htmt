@@ -132,3 +132,12 @@ body {
    
 }
 /* ↑HoneyNestMaking↑ */
+
+
+/* ↓ブログ↓ */
+.blog_content{
+   width:650px;
+   height:350px;
+   border:solid 3px #022;
+}
+/* ↑ブログ↑ */
