@@ -7,18 +7,17 @@ body {
    font-weight:500;
 }
 a:link{
-   color:#fff;
+   color:#599;
 }
 a:visited{
-   color:#fff;
+   color:#599;
 }
 a:hover{
    background-color:#000;
    color:#aaf;
 }
 a:active{
-   background-color:#aaf;
-   color:#000;
+   color:#faa;
 }
 .head {
    display:flex;
