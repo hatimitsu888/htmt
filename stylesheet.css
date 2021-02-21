@@ -1,17 +1,17 @@
 /* ↓スタイルの設定↓ */
 a:link{
-   color:#66a;
+   color:#ffa;
 }
 a:visited{
-   color:#55f;
+   color:#ffa;
 }
 a:hover{
    color:#000;
-   background-color:#aaf;
+   background-color:#88f;
 }
 a:active{
    color:#000;
-   background-color:#faa;
+   background-color:#f88;
 }
 body {
    font-family:"ＭＳ ゴシック",sans-serif;
@@ -29,9 +29,9 @@ body {
 }
 .contents span {
    font-size:25px;
-   margin:50px;
+   margin:30px;
    padding:10px;
-   background-color:#fff;
+   background-color:#033;
    border:solid 3px #000;
 }
 .body{
