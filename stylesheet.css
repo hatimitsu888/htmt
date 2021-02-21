@@ -1,22 +1,24 @@
 /* ↓スタイルの設定↓ */
+a:link{
+   color:#aa7;
+}
+a:visited{
+   color:#aaf;
+}
+a:hover{
+   color:#000;
+   background:#aaf;
+}
+a:active{
+   color:#000;
+   background:#faa;
+}
 body {
    font-family:"ＭＳ ゴシック",sans-serif;
    color:#fff;
    background-color:#011;
    font-size:20px;
    font-weight:500;
-}
-a:link{
-   color:#599;
-}
-a:visited{
-   color:#599;
-}
-a:hover{
-   color:#aaf;
-}
-a:active{
-   color:#faa;
 }
 .head {
    display:flex;
