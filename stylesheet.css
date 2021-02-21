@@ -162,3 +162,18 @@ body {
    text-align:center;
 }
 /* ↑ブログ↑ */
+
+
+/* ↓依頼ページ↓ */
+th{
+   background-color:#cfc;
+   color:#000;
+   font-weight:800;
+}
+td{
+   background-color:#575;
+}
+.option{
+   background-color:#aca;
+}
+/* ↑依頼ページ↑ */
