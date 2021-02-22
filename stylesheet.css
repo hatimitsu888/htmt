@@ -15,6 +15,7 @@ a:active{
 }
 body {
    font-family:"ＭＳ ゴシック",sans-serif;
+   src:local("メイリオ");
    color:#fff;
    background-color:#011;
    font-size:20px;
