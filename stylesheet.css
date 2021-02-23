@@ -14,7 +14,7 @@ a:active{
    background-color:#f88;
 }
 body {
-   font-family:"ＭＳ ゴシック",sans-serif;
+   font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
    src:local("メイリオ");
    color:#fff;
    background-color:#011;
