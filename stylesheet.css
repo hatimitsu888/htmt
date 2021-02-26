@@ -163,8 +163,8 @@ body {
    text-align:center;
 }
 .blog_contents{
-   display:block;
-   background-color:#355;
+   display:flex;
+   overflow:auto;
    width:700px;
    height:1800px;
 }
