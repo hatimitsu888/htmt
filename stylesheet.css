@@ -164,7 +164,7 @@ body {
 .blog_contents{
    display:flex;
    overflow:auto;
-   width:650px;
+   width:700px;
    height:1800px;
 }
 .png{
