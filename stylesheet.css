@@ -158,14 +158,14 @@ body {
 /* ↓ブログ↓ */
 .blog_content{
    display:block;
+   margin:15px;
    border:dashed 5px #133;
    text-align:center;
 }
 .blog_contents{
-   display:flex;
-   overflow:auto;
-   width:700px;
-   height:1800px;
+   display:block;
+   height:800px;
+   overflow:visible scroll;
 }
 .png{
    display:block;
