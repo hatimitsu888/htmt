@@ -1,7 +1,9 @@
 const url = document.URL;
 const referrer = document.referrer;
-const title = document.getElementById("title").textContent;
-const text = document.getElementById("text").textContent;
+var titleElement = document.getElementById("title");
+var textElement = document.getElementById("text");
+const title = titleElement.textContent;
+const text = textElement.textContent;
 document.write("<title>"+title+"</title>");
 document.write("<meta name='twitter:title' content='"+title+"'>");
 document.write("<meta name='twitter:image' content='"+referrer+"samune.png'>");
