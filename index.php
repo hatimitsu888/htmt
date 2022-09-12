@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="stylesheet.css">
+      <title>はちみつさんの巣</title>
+   </head>
+
+   <body>
+      <?pyp include('head.php'); ?>
+
+
+      <div class="body"><!--本文-->
+         <div class="main">
+            <span class="title">はちみつさんの巣へようこそ</span>
+            <br/>
+            <span class="text">
+               <span class="stitle">はちみつさんとは?</span>
+               　主にYoutubeにゆっくり実況を投稿している人。ただし一人称をたまに「蜂」と言う事もある(何故かは分からない)<br/>
+               　結構たくさんのゲームを実況するのが好きであるが、嫌いなジャンルのゲームも多かったりする。<br/>
+               　『星のカービィ』が大好きである(かなり重要)
+
+               <span class="stitle">シリーズ系実況動画</span>
+               <div class="youtube">
+                  <br/>今続いているシリーズ
+                  <span class="posting">
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/TvaUt8Ow0BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>石だらけの地下洞窟で生活するマインクラフト
+                     </span>
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/TMam_hW_MfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>友達を探しに行きます。
+                     </span>
+                  </span>
+                  <br/>終了したシリーズ
+                  <span class="posted">
+
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/vRToy52deMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>伝説の宝を探しに行きます。
+                     </span>
+
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/NzvcH1oNQqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>石だらけの空島を発展していくマインクラフト
+                     </span>
+
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/jF-tNcN24Do" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>3分で黄昏る抜刀剣クラフト
+                     </span>
+
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/H-uHGW3s6gQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>この荒れ果てた世界を再生する
+                     </span>
+
+                     <span class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/iKl0qT_7s0o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>神曲だらけの毛糸のカービィ
+                     </span>
+
+                  </span>
+               </div>
+
+            </span>
+         </div>
+         <div class="details">
+            <span class="title">新着動画</span><br/>
+                        <iframe loading="lazy" width="300" height="180" src="https://www.youtube.com/embed/?list=UUukW7dbv2YZcfJGwVcz--lg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <br/>
+
+            <span class="title">Twitter</span><br/>
+            <a href="https://twitter.com/Hatimitsu83yg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ja" data-show-count="false">Follow @Hatimitsu83yg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-lang="ja" data-width="280" data-height="600" data-theme="light" href="https://twitter.com/Hatimitsu83yg?ref_src=twsrc%5Etfw">Tweets by Hatimitsu83yg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <br/><br/>
+            <a href="https://twitter.com/Hatimitsu3B?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ja" data-show-count="false">Follow @Hatimitsu3B</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-lang="ja" data-width="280" data-height="600" data-theme="light" href="https://twitter.com/Hatimitsu3B?ref_src=twsrc%5Etfw">Tweets by Hatimitsu3B</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+         </div>
+      </div>
+
+
+
+      <div class="foot">
+         <span class="contact">
+            Contact etc...
+         </span><br/>
+
+         <span class="URL">Gmail：onegai.htmtsan@gmail.com</span>
+         <span class="URL"><a href="https://www.youtube.com/channel/UCukW7dbv2YZcfJGwVcz--lg">Youtube</a></span>
+         <span class="URL"><a href="https://twitter.com/Hatimitsu83yg">Twitter</a></span>
+         <br/>
+         <span class="URL"><a href="https://www.twitch.tv/hatimitsu83">Twitch</a></span>
+      </div>
+      <div class="copyright">© 2021 はちみつ</div>
+   </body>
+</html>
