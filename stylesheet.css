@@ -14,7 +14,7 @@ a:active{
    background-color:#f88;
 }
 body {
-   font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+   font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
    src:local("メイリオ");
    color:#fff;
    background-color:#011;
@@ -148,9 +148,6 @@ body {
 }
 .des{
    border-bottom:dashed 3px #022;
-}
-.download img{
-   
 }
 /* ↑HoneyNestMaking↑ */
 
