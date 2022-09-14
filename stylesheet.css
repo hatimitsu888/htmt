@@ -21,11 +21,9 @@ body {
    font-size:20px;
    font-weight:500;
 }
-.head {
-   display:flex;
-}
 .head_common {
    background-color:#055;
+   display:flex;
 }
 .contents {
    padding-top:50px;
